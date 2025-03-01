@@ -1,0 +1,6 @@
+name: assignment7-env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+prefix: /opt/anaconda3/envs/assignment7-env
